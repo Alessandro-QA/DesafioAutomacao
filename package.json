@@ -1,0 +1,14 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Desafio Parana",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Alessandro Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.0"
+  }
+}
